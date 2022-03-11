@@ -21,7 +21,7 @@
 
   "tpu_size": 8,
 
-  "bucket": "alignment-dataset",
+  "bucket": "riddles-bucket",
   "model_dir": "alignment-finetune",
 
   "train_set": "alignment.train.index",
